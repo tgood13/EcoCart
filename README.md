@@ -25,7 +25,7 @@ There were times where the screen was completely blank when I was trying to make
 
 ## Accomplishments that I'm proud of
 
-I was working in a team of 4 on the Android version of this application idea, but there wasn't an effective way to split up the work. I took this as an opportunity to further my knowledge of Xcode and Swift by creating an iOS version of the app.
+There were many points where I was was annoyed of the same error and I'm proud of myself for figuring these out and not giving up when things got difficult.
 
 ## What I learned
 
